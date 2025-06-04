@@ -10,7 +10,11 @@ In this project, we are automating the DemoBlaze Website: https://www.demoblaze.
 6. Purchase an item-placing an order.(Checkout)
 7. Verify confirmation message.
 8. We also take screenshots after selecting product, adding to cart and confirmation message.
-## 
+## Setup Instructions
+1. Ensure that you have Java and Maven installed.
+2. Run test class using IDE(Eg: I have used Eclipse) or command line.
+3. Ensure that you have WebDriver executable path installed. (In this case, I have used ChromeDriver).
+4. 
 
    
 
