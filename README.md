@@ -1,4 +1,4 @@
-# demoblaze_Selenium_project
+# Demoblaze Website Automation using Selenium and Java:
 ## Overview:
 In this project, we are automating the DemoBlaze Website: https://www.demoblaze.com/. We are selecting an item(laptop) and making a purchase in the website.
 ## What is automated?
@@ -17,6 +17,11 @@ In this project, we are automating the DemoBlaze Website: https://www.demoblaze.
 
 ## Screenshots
 Screenshots are saved in the `screenshots/` folder after running the tests. Taken using takeScreenshotAs() method.
+## Notes:
+1. Web driver used: Chrome Driver
+2. Programming language used: Selenium, Java
+3. Explicit waits are used to handle dynamic page elements.
+4. Pop up handled correctly.
 
 
    
