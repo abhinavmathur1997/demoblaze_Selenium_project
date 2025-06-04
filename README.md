@@ -13,8 +13,11 @@ In this project, we are automating the DemoBlaze Website: https://www.demoblaze.
 ## Setup Instructions
 1. Ensure that you have Java and Maven installed.
 2. Run test class using IDE(Eg: I have used Eclipse) or command line.
-3. Ensure that you have WebDriver executable path installed. (In this case, I have used ChromeDriver).
-4. 
+3. Ensure that you have WebDriver executable path installed and updated. (In this case, I have used ChromeDriver).
+
+## Screenshots
+Screenshots are saved in the `screenshots/` folder after running the tests. Taken using takeScreenshotAs() method.
+
 
    
 
